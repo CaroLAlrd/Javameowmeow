@@ -1,4 +1,4 @@
-rad = 6;
+rad = 9;
 deg = (rad / Math.PI) * 180;
 min = (deg % Math.floor(deg)) * 60;
 sec = (min % Math.floor(min)) * 60;
